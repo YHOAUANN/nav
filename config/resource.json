@@ -168,66 +168,6 @@
 			}
 		]
 	},
-	"caricature": {
-		"name": "漫画",
-		"is_show": true,
-		"list": [
-			{
-				"name": "包子漫画",
-				"url": "https://cn.baozimh.com/search?q={keyword}",
-				"icon": "https://img.fre123.com/i/2023/11/25/6561b8d372fc7.png",
-				"is_show": true
-			},
-			{
-				"name": "yymanhua",
-				"url": "https://www.yymanhua.com/search?title={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/15/65a4260f700e0.ico",
-				"is_show": true
-			},
-			{
-				"name": "漫畫狗",
-				"url": "https://dogemanga.com/?q={keyword}",
-				"icon": "https://img.fre123.com/i/2023/12/14/6579d8ec4fc48.png",
-				"is_show": true
-			},
-			{
-				"name": "漫画DB",
-				"url": "https://www.manhuadb.com/search?q={keyword}",
-				"icon": "https://img.fre123.com/i/2023/11/25/6561b8d372fc7.png",
-				"is_show": true
-			},
-			{
-				"name": "大树漫画",
-				"url": "https://www.dashumanhua.com/search?types=comic&searhword={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/15/65a426b0960dd.ico",
-				"is_show": true
-			},
-			{
-				"name": "漫画柜",
-				"url": "https://www.manhuagui.com/s/{keyword}.html",
-				"icon": "https://img.fre123.com/i/2024/01/18/65a81b8a17df5.jpg",
-				"is_show": false
-			},
-			{
-				"name": "新新漫画",
-				"url": "https://so.77mh.nl/k.php?k={keyword}",
-				"icon": "https://img.fre123.com/i/2023/12/14/6579d9092cf1b.png",
-				"is_show": true
-			},
-			{
-				"name": "动漫啦",
-				"url": "https://www.dongman.la/manhua/so/{keyword}",
-				"icon": "https://img.fre123.com/i/2023/12/14/6579d920340ea.png",
-				"is_show": true
-			},
-			{
-				"name": "komiic",
-				"url": "https://komiic.com/search/{keyword}",
-				"icon": "https://img.fre123.com/i/2023/12/26/6589e4f0c0c8c.png",
-				"is_show": false
-			}
-		]
-	},
 
 	"ebook": {
 		"name": "书籍",
@@ -277,54 +217,7 @@
 			}
 		]
 	},
-	"novels": {
-		"name": "小说",
-		"is_show": true,
-		"list": [
-			{
-				"name": "owllook",
-				"url": "https://www.owlook.com.cn/search?wd={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/16/65a65c0de39e6.ico",
-				"is_show": true
-			},
-			{
-				"name": "聚小说",
-				"url": "https://www.juxiaoshuo.net/page/search?query={keyword}&source=1",
-				"icon": "https://img.fre123.com/i/2024/02/22/65d760a4bf263.ico",
-				"is_show": true
-			},
-			{
-				"name": "燃文小说网",
-				"url": "https://www.ygshu.com/dfhdfdfhdfh.php?ie=gbk&q={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/16/65a56b8693096.jpg",
-				"is_show": true
-			},
-			{
-				"name": "全本小说网",
-				"url": "https://www.quanben.io/index.php?c=book&a=search&keywords={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/16/65a56afec4dee.ico",
-				"is_show": true
-			},
-			{
-				"name": "读小说吧",
-				"url": "http://www.duxs8.com/modules/article/search.php?searchtype=articlename&searchkey={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/16/65a566725894f.ico",
-				"is_show": true
-			},
-			{
-				"name": "知轩藏书",
-				"url": "https://zxcs.info/index.php?keyword={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/16/65a56cd10e169.jpg",
-				"is_show": true
-			},
-			{
-				"name": "笔趣看",
-				"url": "https://bqg123.net/search?form=biqusoso&keyword={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/16/65a56064bfe91.ico",
-				"is_show": true
-			}
-		]
-	},
+
 	"web_disk": {
 		"name": "网盘",
 		"is_show": true,

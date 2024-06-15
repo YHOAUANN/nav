@@ -100,17 +100,12 @@
 				"is_show": true
 			},
 			{
-				"name": "555电影",
-				"url": "https://55vid.shop/vodsearch/-------------.html?wd={keyword}",
-				"icon": "https://img.fre123.com/i/2023/12/14/657b21e08c6f0.png",
-				"is_show": true
-			},
-			{
-				"name": "鱼塘社",
-				"url": "https://tv.yutangshe.com/vod/search.html?wd={keyword}",
-				"icon": "https://img.fre123.com/i/2024/02/21/65d5fae48a37b.png",
+				"name": "低端影视",
+				"url": "https://ddys.pro/?s={keyword}",
+				"icon": "https://ddys.pro/apple-touch-icon.png",
 				"is_show": true
 			}
+			
 		]
 	},
 	"anime": {
@@ -118,9 +113,9 @@
 		"is_show": true,
 		"list": [
 			{
-				"name": "动漫搜",
-				"url": "https://www.fre123.com/anime/s?query={keyword}",
-				"icon": "https://img.fre123.com/i/2023/11/25/65619e8022505.png",
+				"name": "次元城动漫",
+				"url": "https://www.cycanime.com/search.html?wd={keyword}",
+				"icon": "https://www.cycanime.com/upload/site/20240319-1/67656e504da1f0c61513066dcea769fb.png",
 				"is_show": true
 			},
 			{

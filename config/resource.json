@@ -125,46 +125,10 @@
 				"is_show": true
 			},
 			{
-				"name": "樱花动漫",
-				"url": "https://www.iyhdmm.com/s_all?ex=1&kw={keyword}",
+				"name": "nyafun",
+				"url": "https://www.nyafun.net/search.html?wd={keyword}",
 				"icon": "https://img.fre123.com/i/2023/11/25/6561b85abc481.png",
 				"is_show": true
-			},
-			{
-				"name": "怡萱动漫",
-				"url": "https://www.iyxdm.cc/search.html?title={keyword}",
-				"icon": "https://img.fre123.com/i/2023/11/25/6561b8916d0e7.jpg",
-				"is_show": true
-			},
-			{
-				"name": "E站",
-				"url": "https://www.ezdmw.site/Index/search.html?searchText={keyword}",
-				"icon": "https://img.fre123.com/i/2023/12/13/6579a72d755f8.png",
-				"is_show": true
-			},
-			{
-				"name": "蜜糖动漫",
-				"url": "https://www.mitang.tv/mitang-s/wd/{keyword}",
-				"icon": "https://img.fre123.com/i/2024/02/21/65d60ba7f0742.webp",
-				"is_show": true
-			},
-			{
-				"name": "bimi 动漫",
-				"url": "http://www.bimiacg10.net/vod/search/wd/{keyword}",
-				"icon": "https://img.fre123.com/i/2023/12/14/6579d63c89c74.png",
-				"is_show": true
-			},
-			{
-				"name": "异世界动漫",
-				"url": "https://www.mikudm.com/index.php/vod/search.html?wd={keyword}",
-				"icon": "https://img.fre123.com/i/2023/11/25/6561b8a56cb6e.png",
-				"is_show": true
-			},
-			{
-				"name": "风车动漫",
-				"url": "https://dm530.org/search?q={keyword}",
-				"icon": "https://img.fre123.com/i/2023/12/13/6579a6860c978.ico",
-				"is_show": false
 			}
 		]
 	},

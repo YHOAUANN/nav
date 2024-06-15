@@ -125,21 +125,15 @@
 				"is_show": true
 			},
 			{
-				"name": "樱花动漫",
-				"url": "https://www.iyhdmm.com/s_all?ex=1&kw={keyword}",
+				"name": "喵物次元",
+				"url": "https://www.mwcy.net/catsearch.html?wd={keyword}",
 				"icon": "https://img.fre123.com/i/2023/11/25/6561b85abc481.png",
 				"is_show": true
 			},
 			{
-				"name": "怡萱动漫",
-				"url": "https://www.iyxdm.cc/search.html?title={keyword}",
-				"icon": "https://img.fre123.com/i/2023/11/25/6561b8916d0e7.jpg",
-				"is_show": true
-			},
-			{
-				"name": "E站",
-				"url": "https://www.ezdmw.site/Index/search.html?searchText={keyword}",
-				"icon": "https://img.fre123.com/i/2023/12/13/6579a72d755f8.png",
+				"name": "nyafun",
+				"url": "https://www.nyafun.net/search.html?wd={keyword}",
+				"icon": "https://files.superbed.cn/proxy/726e6e6a692035357e757973777d29347e757969346b6b347975773573777b7d7f355b7d5b5b592c6f374e4c4a5b7773792e606b4056562d6e2a2e76294d2d506c6a346a747d",
 				"is_show": true
 			},
 			{
@@ -147,30 +141,12 @@
 				"url": "https://www.mitang.tv/mitang-s/wd/{keyword}",
 				"icon": "https://img.fre123.com/i/2024/02/21/65d60ba7f0742.webp",
 				"is_show": true
-			},
-			{
-				"name": "bimi 动漫",
-				"url": "http://www.bimiacg10.net/vod/search/wd/{keyword}",
-				"icon": "https://img.fre123.com/i/2023/12/14/6579d63c89c74.png",
-				"is_show": true
-			},
-			{
-				"name": "异世界动漫",
-				"url": "https://www.mikudm.com/index.php/vod/search.html?wd={keyword}",
-				"icon": "https://img.fre123.com/i/2023/11/25/6561b8a56cb6e.png",
-				"is_show": true
-			},
-			{
-				"name": "风车动漫",
-				"url": "https://dm530.org/search?q={keyword}",
-				"icon": "https://img.fre123.com/i/2023/12/13/6579a6860c978.ico",
-				"is_show": false
 			}
 		]
 	},
 	"caricature": {
 		"name": "漫画",
-		"is_show": true,
+		"is_show": false,
 		"list": [
 			{
 				"name": "包子漫画",
@@ -234,21 +210,15 @@
 		"is_show": true,
 		"list": [
 			{
+				"name": "Z-Library",
+				"url": "https://zh.z-lib.gs/s/{keyword}?",
+				"icon": "https://zh.z-lib.gs/favicon.svg",
+				"is_show": true
+			}
+			{
 				"name": "微信读书",
 				"url": "https://weread.qq.com/web/search/books?keyword={keyword}",
 				"icon": "https://img.fre123.com/i/2024/02/21/65d4ed7d38bd2.ico",
-				"is_show": true
-			},
-			{
-				"name": "相识",
-				"url": "https://www.xiangshibook.com/search?kw={keyword}",
-				"icon": "https://img.fre123.com/i/2024/02/22/65d75b840fb18.ico",
-				"is_show": true
-			},
-			{
-				"name": "Liber3",
-				"url": "https://liber3.eth.limo/#/search?q={keyword}",
-				"icon": "https://img.fre123.com/i/2024/02/21/65d4eefd181f7.ico",
 				"is_show": true
 			},
 			{
@@ -262,24 +232,12 @@
 				"url": "https://sobooks.net/search/{keyword}",
 				"icon": "https://img.fre123.com/i/2024/02/22/65d75a52a7fcc.ico",
 				"is_show": true
-			},
-			{
-				"name": "搬书匠",
-				"url": "http://www.banshujiang.cn/e_books/search/page/1?searchWords={keyword}",
-				"icon": "https://img.fre123.com/i/2024/02/21/65d5f4f51c928.ico",
-				"is_show": true
-			},
-			{
-				"name": "书葵网",
-				"url": "https://www.shukui.net/so/search.php?q={keyword}",
-				"icon": "https://img.fre123.com/i/2024/02/19/65d22d38f2c44.ico",
-				"is_show": true
 			}
 		]
 	},
 	"novels": {
 		"name": "小说",
-		"is_show": true,
+		"is_show": false,
 		"list": [
 			{
 				"name": "owllook",
@@ -333,18 +291,12 @@
 				"name": "海盗湾",
 				"url": "https://thepiratebay10.info/search/{keyword}",
 				"icon": "https://img.fre123.com/i/2024/01/05/6596efebb32ca.png",
-				"is_show": false
+				"is_show": true
 			},
 			{
 				"name": "狸猫盘搜",
 				"url": "https://alipansou.com/search?k={keyword}",
 				"icon": "https://img.fre123.com/i/2024/01/04/65959eb813cb0.png",
-				"is_show": true
-			},
-			{
-				"name": "秒搜",
-				"url": "https://miaosou.fun/info?searchKey={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/15/65a42165e8b35.png",
 				"is_show": true
 			},
 			{
@@ -354,27 +306,15 @@
 				"is_show": true
 			},
 			{
-				"name": "SearchSearchGo",
-				"url": "https://ssgo.app/?page=1&query={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/30/65b7db46bb861.png",
-				"is_show": true
-			},
-			{
-				"name": "趣盘搜",
-				"url": "https://pan.funletu.com/#/s/{keyword}/1.html",
-				"icon": "https://img.fre123.com/i/2024/01/04/65959ec988ff4.png",
-				"is_show": true
-			},
-			{
 				"name": "小盘盘",
 				"url": "https://xpanpan.site/?s={keyword}",
 				"icon": "https://img.fre123.com/i/2024/01/30/65b7dbf7a97b8.png",
 				"is_show": true
 			},
 			{
-				"name": "YaPan",
-				"url": "https://yapan.io/search?keyword={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/16/65a55c4e7fe22.png",
+				"name": "",
+				"url": "https://aliso.cc/s/{keyword}-1-0.html",
+				"icon": "https://aliso.cc/static/img/logo.png",
 				"is_show": true
 			}
 		]

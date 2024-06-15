@@ -127,7 +127,14 @@
 			{
 				"name": "nyafun",
 				"url": "https://www.nyafun.net/search.html?wd={keyword}",
-				"icon": "https://img.fre123.com/i/2023/11/25/6561b85abc481.png",
+				"icon": "https://pic.imgdb.cn/item/666e209dd9c307b7e929635e.png",
+				"is_show": true
+			}
+			,
+			{
+				"name": "喵物次元",
+				"url": "https://www.mwcy.net/catsearch.html?wd={keyword}",
+				"icon": "https://pic.imgdb.cn/item/666e210bd9c307b7e929c530.png",
 				"is_show": true
 			}
 		]
@@ -138,45 +145,21 @@
 		"is_show": true,
 		"list": [
 			{
+				"name": "Z-Library",
+				"url": "https://zh.z-lib.gs/s/{keyword}?",
+				"icon": "https://zh.z-lib.gs/favicon.svg",
+				"is_show": true
+			},
+			{
 				"name": "微信读书",
 				"url": "https://weread.qq.com/web/search/books?keyword={keyword}",
 				"icon": "https://img.fre123.com/i/2024/02/21/65d4ed7d38bd2.ico",
 				"is_show": true
 			},
 			{
-				"name": "相识",
-				"url": "https://www.xiangshibook.com/search?kw={keyword}",
-				"icon": "https://img.fre123.com/i/2024/02/22/65d75b840fb18.ico",
-				"is_show": true
-			},
-			{
-				"name": "Liber3",
-				"url": "https://liber3.eth.limo/#/search?q={keyword}",
-				"icon": "https://img.fre123.com/i/2024/02/21/65d4eefd181f7.ico",
-				"is_show": true
-			},
-			{
 				"name": "安娜的档案",
 				"url": "https://zh.annas-archive.org/search?q={keyword}",
 				"icon": "https://img.fre123.com/i/2024/02/22/65d75d4d42da8.png",
-				"is_show": true
-			},
-			{
-				"name": "SoBooks",
-				"url": "https://sobooks.net/search/{keyword}",
-				"icon": "https://img.fre123.com/i/2024/02/22/65d75a52a7fcc.ico",
-				"is_show": true
-			},
-			{
-				"name": "搬书匠",
-				"url": "http://www.banshujiang.cn/e_books/search/page/1?searchWords={keyword}",
-				"icon": "https://img.fre123.com/i/2024/02/21/65d5f4f51c928.ico",
-				"is_show": true
-			},
-			{
-				"name": "书葵网",
-				"url": "https://www.shukui.net/so/search.php?q={keyword}",
-				"icon": "https://img.fre123.com/i/2024/02/19/65d22d38f2c44.ico",
 				"is_show": true
 			}
 		]

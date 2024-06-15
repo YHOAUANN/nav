@@ -94,12 +94,6 @@
 				"is_show": true
 			},
 			{
-				"name": "大米星球",
-				"url": "https://dmflm.com/vodsearch/-------------.html?wd={keyword}",
-				"icon": "https://img.fre123.com/i/2023/12/14/657b1c91ce756.png",
-				"is_show": true
-			},
-			{
 				"name": "低端影视",
 				"url": "https://ddys.pro/?s={keyword}",
 				"icon": "https://ddys.pro/apple-touch-icon.png",
@@ -170,21 +164,9 @@
 		"is_show": true,
 		"list": [
 			{
-				"name": "海盗湾",
-				"url": "https://thepiratebay10.info/search/{keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/05/6596efebb32ca.png",
-				"is_show": false
-			},
-			{
 				"name": "狸猫盘搜",
 				"url": "https://alipansou.com/search?k={keyword}",
 				"icon": "https://img.fre123.com/i/2024/01/04/65959eb813cb0.png",
-				"is_show": true
-			},
-			{
-				"name": "秒搜",
-				"url": "https://miaosou.fun/info?searchKey={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/15/65a42165e8b35.png",
 				"is_show": true
 			},
 			{
@@ -194,29 +176,11 @@
 				"is_show": true
 			},
 			{
-				"name": "SearchSearchGo",
-				"url": "https://ssgo.app/?page=1&query={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/30/65b7db46bb861.png",
-				"is_show": true
-			},
-			{
-				"name": "趣盘搜",
-				"url": "https://pan.funletu.com/#/s/{keyword}/1.html",
-				"icon": "https://img.fre123.com/i/2024/01/04/65959ec988ff4.png",
-				"is_show": true
-			},
-			{
 				"name": "小盘盘",
 				"url": "https://xpanpan.site/?s={keyword}",
 				"icon": "https://img.fre123.com/i/2024/01/30/65b7dbf7a97b8.png",
 				"is_show": true
 			},
-			{
-				"name": "YaPan",
-				"url": "https://yapan.io/search?keyword={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/16/65a55c4e7fe22.png",
-				"is_show": true
-			}
 		]
 	}
 }

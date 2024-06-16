@@ -221,15 +221,8 @@
 					}
 				]
 			}
-		]
-	},
-	{
-		"group_name": "动漫番剧",
-		"style": 1,
-		"style_des": "标准风格",
-		"tab_list": [
 			{
-				"tab_name": "番剧资源",
+				"tab_name": "在线番剧",
 				"upper_right_corner": {
 					
 				},

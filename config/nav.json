@@ -254,7 +254,7 @@
 					{
 						"title": "次元城动漫",
 						"url": "ttps://www.cycanime.com/",
-						"icon": "https://www.cycanime.com/upload/site/20240319-1/67656e504da1f0c61513066dcea769fb.png,
+						"icon": "https://www.cycanime.com/upload/site/20240319-1/67656e504da1f0c61513066dcea769fb.png",
 						"description": "充满对另一个世界的无尽幻想！",
 						"suffix": true,
 						"is_show": true
@@ -316,10 +316,10 @@
 						"is_show": true
 					},
 					{
-						"title": "漫猫动漫",
+						"title": "漫猫动漫BT下载",
 						"url": "https://comicat.org/",
-						"icon": "https://img.fre123.com/i/2023/12/14/6579d9c1844d0.jpg",
-						"description": "动画/漫画/游戏/动漫音乐/片源BT分享下载",
+						"icon": "https://img.fre123.com/i/2024/01/17/65a7b8e692125.ico",
+						"description": "漫猫BT分享站，动画～漫画～游戏～动漫音乐～片源（RAW）等资源BT下载～欢迎各大字幕组及个人发布入住",
 						"suffix": true,
 						"is_show": true
 					},
@@ -352,14 +352,6 @@
 						"url": "https://nyaa.si/",
 						"icon": "https://img.fre123.com/i/2023/12/13/65799e1f1ad15.png",
 						"description": "一个番剧下载资源网站",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "漫猫动漫BT下载",
-						"url": "https://comicat.org/",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a7b8e692125.ico",
-						"description": "漫猫BT分享站，动画～漫画～游戏～动漫音乐～片源（RAW）等资源BT下载～欢迎各大字幕组及个人发布入住",
 						"suffix": true,
 						"is_show": true
 					},

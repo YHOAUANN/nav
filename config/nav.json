@@ -23,6 +23,39 @@
 				]
 			},
 			{
+				"tab_name": "社交媒体",
+				"upper_right_corner": {
+					
+				},
+				"details": [
+					{
+						"title": "哔哩哔哩",
+						"url": "https://www.bilibili.com/",
+						"icon": "https://www.bilibili.com/favicon.ico",
+						"description": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "知乎",
+						"url": "https://www.zhihu.com",
+						"icon": "https://static.zhihu.com/heifetz/favicon.ico",
+						"description": "问答社区",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "豆瓣",
+						"url": "https://www.douban.com/",
+						"icon": "https://www.douban.com/favicon.ico",
+						"description": "图书、电影、音乐唱片",
+						"suffix": false,
+						"is_show": true
+					}
+					
+				]
+			},
+			{
 				"upper_right_corner": {
 				
 				},

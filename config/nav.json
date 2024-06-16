@@ -321,7 +321,7 @@
 				"upper_right_corner": {},
 				"details": [
 					{
-						"title": "z-library",
+						"title": "Z-Library",
 						"url": " https://zh.singlelogin.re/",
 						"icon": "https://img.fre123.com/i/2024/02/19/65d22f2e1f801.ico",
 						"description": "世界上最大的电子图书馆。自由访问知识和文化",
@@ -349,6 +349,52 @@
 						"url": "https://www.shuge.org/",
 						"icon": "https://img.fre123.com/i/2024/02/22/65d75b2e26a76.ico",
 						"description": "有品格的数字古籍图书馆, 书格, 每个人都能自由地看到我们的文明",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "历史典籍",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "古诗文网",
+						"url": " https://www.gushiwen.cn/",
+						"icon": "https://www.gushiwen.cn/favicon.ico",
+						"description": "古诗文经典传承",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "识典古籍",
+						"url": "https://www.shidianguji.com/",
+						"icon": "https://lf-cdn-tos.bytescm.com/obj/static/guji/shidian/upload/favicon/logo.svg",
+						"description": "古籍在线阅读",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "典籍导航",
+						"url": "http://www.505dh.com/",
+						"icon": "https://pic.imgdb.cn/item/666e4907d9c307b7e95d240e.png",
+						"description": "国学经典、诗词歌赋、字词句等经典国学",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "漢典古籍",
+						"url": "https://gj.zdic.net/",
+						"icon": "",
+						"description": "電子古籍,古籍收集,古籍善本,古典文學,古典小說,提供經、史、子、集的分類流覽",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "中国哲学书电子化计划",
+						"url": "https://ctext.org/zhs?en=off",
+						"icon": "https://ctext.org/static/apple-touch-icon.png",
+						"description": "全球最大的中国古籍资料库和检索系统",
 						"suffix": false,
 						"is_show": true
 					}

@@ -521,14 +521,7 @@
 						"is_show": true
 					}
 				]
-			}
-		]
-	},
-	{
-		"group_name": "网盘资源",
-		"style": 1,
-		"style_des": "标准风格",
-		"tab_list": [
+			},
 			{
 				"tab_name": "阿里云盘",
 				"upper_right_corner": {},

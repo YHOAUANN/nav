@@ -12,7 +12,7 @@
 						"title": "世界新闻日报",
 						"ori_url": "https://informedainews.com/zh-Hans/docs/world-news-daily",
 						"url": "https://informedainews.com/zh-Hans/docs/world-news-daily",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f2f1be65bf.png",
+						"icon": "https://pic.imgdb.cn/item/666e275cd9c307b7e92fc5fc.webp",
 						"description": "消除信息差，突破信息茧房的局限",
 						"suffix": false,
 						"is_show": true
@@ -35,54 +35,27 @@
 					{
 						"title": "Stack Overflow",
 						"ori_url": "https://stackoverflow.com/",
-						"url": "https://www.fre123.com/tech/stackoverflow",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773ed583ad3.png",
+						"url": "https://stackoverflow.com/",
+						"icon": "https://pic.imgdb.cn/item/666e2720d9c307b7e92f915e.jpg",
 						"description": "开发者问答社区，解决编程难题",
 						"suffix": false,
 						"is_show": true
 					},
 					{
-						"title": "V2EX",
-						"ori_url": "https://www.v2ex.com/?tab=hot",
-						"url": "https://www.fre123.com/tech/v2ex",
-						"icon": "https://img.fre123.com/i/2023/12/12/657733214ec3f.png",
-						"description": "程序员社区，分享与讨论",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "掘金",
-						"ori_url": "https://juejin.cn/hot/articles",
-						"url": "https://www.fre123.com/tech/juejin_trending_all_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/12/6577329c73a89.png",
-						"description": "技术社区，发现优质内容",
-						"suffix": false,
-						"is_show": true
-					},
-					{
 						"title": "博客园",
-						"ori_url": "https://www.cnblogs.com/aggsite/topviews",
-						"url": "https://www.fre123.com/tech/cnblogs_topviews",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773305be49d.png",
+						"ori_url": "https://www.cnblogs.com/",
+						"url": "https://www.cnblogs.com/",
+						"icon": "https://assets.cnblogs.com/favicon.svg",
 						"description": "程序员社区，知识交流平台",
 						"suffix": false,
 						"is_show": true
 					},
 					{
-						"title": "开源中国",
-						"ori_url": "https://www.oschina.net/news",
-						"url": "https://www.fre123.com/tech/oschina_news",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773357604e7.png",
-						"description": "开源技术社区，共享创新精神",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "Segmentfault",
-						"ori_url": "https://segmentfault.com/news",
-						"url": "https://www.fre123.com/tech/segmentfault_news",
-						"icon": "https://img.fre123.com/i/2023/12/12/6577354f59e5d.png",
-						"description": "开发者问答社区，解决问题互助",
+						"title": "吾爱破解",
+						"ori_url": "https://www.52pojie.cn/",
+						"url": "https://www.52pojie.cn/",
+						"icon": "https://pic.imgdb.cn/item/666e283bd9c307b7e9309144.gif",
+						"description": "致力于软件安全与病毒分析的前沿，丰富的技术版块交相辉映",
 						"suffix": false,
 						"is_show": true
 					}
@@ -102,118 +75,53 @@
 					},
 					{
 						"title": "老胡的信息周刊",
-						"url": "https://www.fre123.com/weekly/howie6879_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/07/6570a33fcae2f.jpeg",
+						"url": "https://weekly.howie6879.com/2024/",
+						"icon": "https://pic.imgdb.cn/item/666e2961d9c307b7e931b057.jpg",
 						"description": "记录老胡每周看到的优质资源，包含项目、软件、资料、网站",
 						"suffix": true,
 						"is_show": true
 					},
 					{
 						"title": "HelloGitHub",
-						"url": "https://www.fre123.com/weekly/hellogithub",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f22c38002e.png",
-						"description": "「HelloGitHub 月刊」分享 GitHub 上有趣、入门级的开源项目，每月 28 号发布最新一期",
-						"suffix": true,
+						"ori_url": "https://hellogithub.com/",
+						"url": "https://hellogithub.com/",
+						"icon": "https://pic.imgdb.cn/item/666e28e2d9c307b7e93138c1.png",
+						"description": "发现和分享有趣、入门级开源项目的平台",
+						"suffix": false,
 						"is_show": true
-					},
+					}
 					{
 						"title": "独立开发变现周刊",
-						"url": "https://www.fre123.com/weekly/ezindie",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f421fa8770.png",
+						"url": "https://www.ezindie.com/weekly",
+						"icon": "https://pic.imgdb.cn/item/666e2a2ed9c307b7e9327ae5.jpg",
 						"description": "独立开发变现相关的技术、工具、交流等，彼此促进成长，快速落地各自的产品，实现持续盈利",
 						"suffix": true,
 						"is_show": true
 					},
 					{
 						"title": "二丫讲梵",
-						"url": "https://www.fre123.com/weekly/eryajf",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f225463402.png",
+						"url": "https://wiki.eryajf.net/pages/722107/",
+						"icon": "https://pic.imgdb.cn/item/666e2accd9c307b7e9331e4c.webp",
 						"description": "周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验",
 						"suffix": true,
 						"is_show": true
 					},
 					{
-						"title": "AIGC Weekly",
-						"url": "https://www.fre123.com/weekly/aigc_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f1e30d4262.ico",
-						"description": "每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "小棉袄的百味人生",
-						"url": "https://www.fre123.com/weekly/haikuoshijie",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f25ba8b44f.png",
-						"description": "小棉袄的博客，嗅觉浏览器、海阔视界开发者的博客",
-						"suffix": true,
-						"is_show": true
-					},
-					{
 						"title": "不死鸟月刊分享",
-						"url": "https://www.fre123.com/weekly/businiaofenxiang",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f21aa7baaf.png",
+						"url": "https://iui.su/fx/",
+						"icon": "https://npm.elemecdn.com/niaosu@3.3.5/logo.png",
 						"description": "分享为王",
 						"suffix": true,
 						"is_show": true
 					},
 					{
 						"title": "1Link.Fun",
-						"url": "https://www.fre123.com/weekly/1link_fun",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f20f645b6e.png",
+						"url": "https://1link.fun/blog/",
+						"icon": "https://fav.farm/%F0%9F%94%A5",
 						"description": "1Link.Fun 科技周刊，每周更新 10 条有趣的链接",
 						"suffix": true,
 						"is_show": true
 					},
-					{
-						"title": "Go语言爱好者周刊",
-						"url": "https://www.fre123.com/weekly/studygolang",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f227ae1a30.png",
-						"description": "记录每周值得分享的 Go 语言相关内容，周日发布",
-						"suffix": true,
-						"is_show": true
-					},
-
-					{
-						"title": "破茧日报",
-						"url": "https://www.fre123.com/weekly/guozh",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f2385d1ec1.jpeg",
-						"description": "破茧日报，老郭种树",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "老司机 iOS 周报",
-						"url": "https://www.fre123.com/weekly/lao_si_ji_ios_zhou_kan",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f228744f01.png",
-						"description": "对于 iOS 开发者有价值的信息",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "MDH 前端周刊",
-						"url": "https://www.fre123.com/weekly/mdh_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f234394894.png",
-						"description": "前端技术周刊",
-						"suffix": true,
-						"is_show": true
-					},
-
-					{
-						"title": "Python 潮流周刊",
-						"url": "https://www.fre123.com/weekly/pythoncat_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f23ae79f38.png",
-						"description": "Python技术周刊",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "Web 技术周刊",
-						"url": "https://www.fre123.com/weekly/fe_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f2543dff40.png",
-						"description": "汇总平时看到的好文章，前端技术 & 产品研发为主",
-						"suffix": true,
-						"is_show": true
-					}
 				]
 			}
 		]

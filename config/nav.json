@@ -104,7 +104,7 @@
 						"description": "发现和分享有趣、入门级开源项目的平台",
 						"suffix": false,
 						"is_show": true
-					}
+					},
 					{
 						"title": "独立开发变现周刊",
 						"url": "https://www.ezindie.com/weekly",
@@ -151,10 +151,10 @@
 				"upper_right_corner": {},
 				"details": [
 					{
-						"title": "BTNULL 无名小站",
-						"url": "https://www.btnull.org",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561ae014e2de.png",
-						"description": "简单注册下，即可在线观看&下载影视资源，总体体验还是挺良心的",
+						"title": "注视影视",
+						"url": "https://gaze.run/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561ae9a7b3d3.png",
+						"description": "在线影视搜索观看网站，颜值鲜艳！",
 						"suffix": true,
 						"is_show": true
 					},
@@ -163,15 +163,6 @@
 						"url": "https://jiohub.top",
 						"icon": "https://img.fre123.com/i/2023/11/25/6561af1988649.png",
 						"description": "努力打造为最好的海外热门影视剧在线观看站点",
-						"suffix": true,
-						"is_show": true
-					},
-
-					{
-						"title": "注视影视",
-						"url": "https://gaze.run/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561ae9a7b3d3.png",
-						"description": "在线影视搜索观看网站，颜值鲜艳！",
 						"suffix": true,
 						"is_show": true
 					},

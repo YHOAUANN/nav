@@ -373,9 +373,9 @@
 		]
 	},
 	{
-		"group_name": "书籍资源",
+		"group_name": "书画资源",
 		"style": 1,
-		"style_des": "书籍资源",
+		"style_des": "书画资源",
 		"tab_list": [
 			{
 				"tab_name": "电子书籍",
@@ -456,6 +456,76 @@
 						"url": "https://ctext.org/zhs?en=off",
 						"icon": "https://ctext.org/static/apple-touch-icon.png",
 						"description": "全球最大的中国古籍资料库和检索系统",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "好看壁纸",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "WallpaperCave",
+						"url": "https://wallpapercave.com/",
+						"icon": "https://img.fre123.com/i/2024/01/17/65a6bc92d513b.png",
+						"description": "大量高清壁纸和背景图像可以免费下载。你也可以上传和分享你最喜欢壁纸",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "WallpapersCraft",
+						"url": "https://wallpaperscraft.com/",
+						"icon": "https://img.fre123.com/i/2024/01/17/65a6bb13b331b.ico",
+						"description": "支持 PC 和 Mac、笔记本电脑、平板电脑、手机的分辨率，各类壁纸、高清背景",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "WALLPAPER ABYSS",
+						"url": "https://wall.alphacoders.com/",
+						"icon": "https://wall.alphacoders.com/favicon-32x32.png",
+						"description": "动漫影视游戏壁纸",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "GameWallpapers",
+						"url": "https://www.gamewallpapers.com/",
+						"icon": "https://img.fre123.com/i/2024/01/17/65a6bb871013f.ico",
+						"description": "Xbox One、PlayStation 4(PS4)和任天堂WiiU@1080p、1440p、4k的最新PC和视频游戏的桌面或移动背景独家游戏壁纸",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "轻壁纸",
+						"url": "https://qingbizhi.com/",
+						"icon": "https://img.fre123.com/i/2024/01/17/65a6b51cce8c6.jpg",
+						"description": "轻壁纸是一个免费高清4K电脑壁纸分享站，专注分享精美高分辨率横屏电脑壁纸、4K高清壁纸！提供免费壁纸下载！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "1001FreeDownloads",
+						"url": "https://www.1001freedownloads.com/free-wallpapers/",
+						"icon": "https://img.fre123.com/i/2024/01/17/65a6c61683164.png",
+						"description": "1001FreeDownloads 支持免费下载照片、壁纸等",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "壁纸汇",
+						"url": "https://www.bizhihui.com/",
+						"icon": "https://img.fre123.com/i/2024/01/17/65a6c759db682.ico",
+						"description": "壁纸汇提供丰富的手机壁纸，动漫壁纸，电脑壁纸、桌面壁纸等火爆好看的高清4K壁纸图片下载。包含电脑壁纸、手机壁纸设备的不同尺寸以及自定义下载壁纸图片，免费下载方便快捷，欢迎收藏分享~",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "拾光壁纸",
+						"url": "https://snake.timeline.ink/home",
+						"icon": "https://img.fre123.com/i/2024/02/18/65d21ec12048f.png",
+						"description": "拾光壁纸：干净、舒适、流畅的桌面壁纸网站。可在微软商店下载其桌面版本，以获得完整体验，如自动更换壁纸。",
 						"suffix": false,
 						"is_show": true
 					}
@@ -547,83 +617,6 @@
 						"url": "https://xpanpan.site",
 						"icon": "https://img.fre123.com/i/2024/01/30/65b7dbf7a97b8.png",
 						"description": "小盘盘网盘搜索<",
-						"suffix": false,
-						"is_show": true
-					}
-				]
-			}
-		]
-	},
-	{
-		"group_name": "图片壁纸",
-		"style": 1,
-		"style_des": "图片壁纸",
-		"tab_list": [
-			{
-				"tab_name": "免费壁纸",
-				"upper_right_corner": {},
-				"details": [
-					{
-						"title": "WallpaperCave",
-						"url": "https://wallpapercave.com/",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a6bc92d513b.png",
-						"description": "大量高清壁纸和背景图像可以免费下载。你也可以上传和分享你最喜欢壁纸",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "WallpapersCraft",
-						"url": "https://wallpaperscraft.com/",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a6bb13b331b.ico",
-						"description": "支持 PC 和 Mac、笔记本电脑、平板电脑、手机的分辨率，各类壁纸、高清背景",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "WALLPAPER ABYSS",
-						"url": "https://wall.alphacoders.com/",
-						"icon": "https://wall.alphacoders.com/favicon-32x32.png",
-						"description": "动漫影视游戏壁纸",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "GameWallpapers",
-						"url": "https://www.gamewallpapers.com/",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a6bb871013f.ico",
-						"description": "Xbox One、PlayStation 4(PS4)和任天堂WiiU@1080p、1440p、4k的最新PC和视频游戏的桌面或移动背景独家游戏壁纸",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "轻壁纸",
-						"url": "https://qingbizhi.com/",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a6b51cce8c6.jpg",
-						"description": "轻壁纸是一个免费高清4K电脑壁纸分享站，专注分享精美高分辨率横屏电脑壁纸、4K高清壁纸！提供免费壁纸下载！",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "1001FreeDownloads",
-						"url": "https://www.1001freedownloads.com/free-wallpapers/",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a6c61683164.png",
-						"description": "1001FreeDownloads 支持免费下载照片、壁纸等",
-						"suffix": false,
-						"is_show": false
-					},
-					{
-						"title": "壁纸汇",
-						"url": "https://www.bizhihui.com/",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a6c759db682.ico",
-						"description": "壁纸汇提供丰富的手机壁纸，动漫壁纸，电脑壁纸、桌面壁纸等火爆好看的高清4K壁纸图片下载。包含电脑壁纸、手机壁纸设备的不同尺寸以及自定义下载壁纸图片，免费下载方便快捷，欢迎收藏分享~",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "拾光壁纸",
-						"url": "https://snake.timeline.ink/home",
-						"icon": "https://img.fre123.com/i/2024/02/18/65d21ec12048f.png",
-						"description": "拾光壁纸：干净、舒适、流畅的桌面壁纸网站。可在微软商店下载其桌面版本，以获得完整体验，如自动更换壁纸。",
 						"suffix": false,
 						"is_show": true
 					}

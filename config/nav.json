@@ -400,7 +400,7 @@
 					{
 						"title": "安娜的档案",
 						"url": "https://zh.annas-archive.org",
-						"icon": "https://img.fre123.com/i/2024/02/22/65d75d4d42da8.png",
+						"icon": "https://zh.annas-archive.org/favicon.ico",
 						"description": "世界上最大的开源、开放数据图书馆。不仅是 Sci-Hub, Library Genesis, Z-Library 等站的镜像。",
 						"suffix": false,
 						"is_show": true

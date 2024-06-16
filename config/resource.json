@@ -64,6 +64,12 @@
 		"is_show": true,
 		"list": [
 			{
+				"name": "低端影视",
+				"url": "https://ddys.pro/?s={keyword}",
+				"icon": "https://ddys.pro/apple-touch-icon.png",
+				"is_show": true
+			},
+			{
 				"name": "注视影视",
 				"url": "https://gaze.run/filter?search={keyword}",
 				"icon": "https://img.fre123.com/i/2023/11/25/6561ae9a7b3d3.png",
@@ -91,12 +97,6 @@
 				"name": "好看123",
 				"url": "https://haokan123.icu/index.php/vod/search.html?wd={keyword}",
 				"icon": "https://img.fre123.com/i/2023/12/13/6579cc2dab874.png",
-				"is_show": true
-			},
-			{
-				"name": "低端影视",
-				"url": "https://ddys.pro/?s={keyword}",
-				"icon": "https://ddys.pro/apple-touch-icon.png",
 				"is_show": true
 			}
 			

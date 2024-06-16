@@ -471,92 +471,12 @@
 				"upper_right_corner": {},
 				"details": [
 					{
-						"title": "QQ音乐",
-						"url": "https://y.qq.com/",
-						"icon": "https://img.fre123.com/i/2024/01/16/65a68615d5159.ico",
-						"description": "QQ音乐是腾讯公司推出的一款网络音乐服务产品，海量音乐在线试听、新歌热歌在线首发、歌词翻译、手机铃声下载、高品质无损音乐试听、海量无损曲库、正版音乐下载、空间背景音乐设置、MV观看等，是互联网音乐播放和下载的优选。",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "酷狗音乐",
-						"url": "https://www.kugou.com/yy/html/rank.html",
-						"icon": "https://img.fre123.com/i/2024/02/22/65d7620c34d85.webp",
-						"description": "酷狗音乐在线正版音乐网站，为您提供酷狗音乐播放器下载 、在线音乐试听下载，提供听书、长音频、频道、听小说和MV播放服务。酷狗音乐，就是歌多！小说相声也很多！场景音乐也很多！",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "网易云音乐",
-						"url": "https://music.163.com/",
-						"icon": "https://img.fre123.com/i/2024/01/16/65a68678cb78e.ico",
-						"description": "网易云音乐是一款专注于发现与分享的音乐产品，依托专业音乐人、DJ、好友推荐及社交功能，为用户打造全新的音乐生活。",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "铜钟",
-						"url": "https://tonzhon.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985ed2a626a.png",
-						"description": "PC端免费音乐平台",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "简繁音乐",
-						"url": "https://pt.sayqz.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985eeb98d91.png",
+						"title": "SPlayer",
+						"url": "https://music.yhoauann.cn/",
+						"icon": "https://music.yhoauann.cn/imgs/icons/favicon-32x32.png",
 						"description": "一个简约的在线音乐播放器，具有音乐搜索、播放、每日推荐、私人FM、歌词显示、歌曲评论、网易云登录与云盘等功能",
 						"suffix": false,
 						"is_show": true
-					},
-					{
-						"title": "slider.kz",
-						"url": "https://hayqbhgr.slider.kz/",
-						"icon": "https://img.fre123.com/i/2024/02/23/65d77b4210861.png",
-						"description": "页面简洁，乐库资源丰富，支持搜索和下载全球音乐",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "TuneFree",
-						"url": "https://pt.sayqz.com/",
-						"icon": "https://img.fre123.com/i/2024/02/21/65d61358a37fb.ico",
-						"description": "一个简约的在线音乐播放器，具有音乐搜索、播放、每日推荐、私人FM、歌词显示、歌曲评论、网易云登录与云盘等功能",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "在线音乐播放器",
-						"url": "https://mp3.xsle.cn/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985f1618ea1.png",
-						"description": "一款开源的基于网易云音乐api的在线音乐播放器",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "MyFreeMP3",
-						"url": "https://music.liumingye.cn",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985eb383091.png",
-						"description": "免费的全网无损音乐下载站",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "LFAC 音乐盒",
-						"url": "http://box.flac.ltd/",
-						"icon": "https://img.fre123.com/i/2024/01/12/65a05264a8050.ico",
-						"description": "vip音乐解析下载,付费音乐解析mp3免费下载网，可下载收费音乐，免费下载收费歌曲！",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "MusicFree",
-						"url": "https://musicfree.upup.fun/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985f063b29f.jpeg",
-						"description": "一个插件化的音乐播放器",
-						"suffix": false,
-						"is_show": false
 					}
 				]
 			},
@@ -565,99 +485,10 @@
 				"upper_right_corner": {},
 				"details": [
 					{
-						"title": "熊猫无损音乐",
-						"url": "https://www.xmwav.com/",
-						"icon": "https://img.fre123.com/i/2024/02/21/65d613a53f5bd.ico",
-						"description": "熊猫无损音乐免费下载网站[www.xmwav.com],一个免费分享无损音乐WAV|MP3格式的网站,为广大音乐爱好者提供音乐交流及资源分享平台。每首无损音乐都是精心挑选，最全免费的无损音乐下载网站。",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "魅力音乐",
-						"url": "https://www.meiliyizu.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985ec12f5b5.png",
-						"description": "无损音乐免费下载",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "下歌吧",
-						"url": "https://xiageba.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985e7b78bbd.png",
-						"description": "高品质无损音乐网盘下载",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "Free MP3 Download",
-						"url": "https://free-mp3-download.net/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985e8fcc35f.png",
-						"description": "免费全网无损音乐下载工具",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "音乐仓库",
-						"url": "https://www.cangkus.com/music",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985ea83e830.png",
-						"description": "一个无损音乐资源分享网站",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "无损音乐网",
-						"url": "https://www.sq0527.cn/",
-						"icon": "https://img.fre123.com/i/2024/01/30/65b7dc73060ad.ico",
-						"description": "无损音乐网-Mp3歌曲免费下载,MP3免费下载,音乐免费下载.收录了网上最新歌曲和流行音乐,网络歌曲,好听的歌,非主流音乐,经典老歌,搞笑歌曲,英文歌曲等。是您寻找好听的歌首选网站。",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "HiFiNi音乐磁场",
-						"url": "https://hifini.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985edec2184.png",
-						"description": "音乐爱好者维护的无损音乐免费下载平台",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "MusicEnc",
-						"url": "https://www.musicenc.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985f26eb75f.png",
-						"description": "可以搜索试听歌曲，可保存音乐",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "猫耳FM",
-						"url": "https://www.missevan.com/sound/m/8",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985f5f48f53.jpg",
-						"description": "M站(猫耳FM)是第一家弹幕音图站,同时也是中国声优基地,在这里可以听电台,音乐,翻唱,小说和广播剧,用二次元声音连接三次元.",
-						"suffix": false,
-						"is_show": false
-					},
-					{
-						"title": "YesPlayMusic",
-						"url": "https://music.qier222.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985f3e10a54.png",
-						"description": "最好用的第三方网易云客户端，自动解锁变灰歌曲",
-						"suffix": false,
-						"is_show": false
-					},
-					{
-						"title": "Lofi ICU音乐",
-						"url": "https://lofi.icu/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985f702d0bc.jpg",
-						"description": "一个提供高保真音乐和现场广播流精选的网站",
-						"suffix": false,
-						"is_show": true
-					},
-
-					{
-						"title": "dtshot",
-						"url": "https://www.dtshot.com/songs",
-						"icon": "https://img.fre123.com/i/2024/01/09/659c3f53de424.ico",
-						"description": "DTSHOT为您收集最新最全的免费无损音乐下载。flac、ape、wav、dsd、dts等格式的无损音乐，每日为您提供最新最全的无损音乐！",
+						"title": "myfreemp3",
+						"url": "http://tools.liumingye.cn/music_old",
+						"icon": "http://tools.liumingye.cn/favicon.ico",
+						"description": "免费无损音乐下载",
 						"suffix": false,
 						"is_show": true
 					}
@@ -675,14 +506,6 @@
 				"upper_right_corner": {},
 				"details": [
 					{
-						"title": "必应壁纸",
-						"url": "http://bimg.top/",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a6b3015eba0.png",
-						"description": "超高质量的必应壁纸与必应美图，你可以查看每日精彩的官方必应壁纸，查看明天必应壁纸，也可下载必应4k壁纸，获取必应壁纸api,下载必应手机壁纸和进行必应壁纸投稿。",
-						"suffix": false,
-						"is_show": true
-					},
-					{
 						"title": "WallpaperCave",
 						"url": "https://wallpapercave.com/",
 						"icon": "https://img.fre123.com/i/2024/01/17/65a6bc92d513b.png",
@@ -699,45 +522,18 @@
 						"is_show": true
 					},
 					{
-						"title": "Pixabay",
-						"url": "https://pixabay.com/zh/",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a6b85f8f3ea.png",
-						"description": "寻找完美的免版税图片或视频，下载之后使用。 ✓ 免版税 ✓ 不要求署名 ✓ 高质量图片.",
+						"title": "WALLPAPER ABYSS",
+						"url": "https://wall.alphacoders.com/",
+						"icon": "https://wall.alphacoders.com/favicon-32x32.png",
+						"description": "动漫影视游戏壁纸",
 						"suffix": false,
 						"is_show": true
 					},
-					{
-						"title": "Unsplash",
-						"url": "https://unsplash.com/",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a6b8a169bba.png",
-						"description": "漂亮、免费的图片和照片，您可以下载并用于任何项目。比任何免版税或库存照片都要好。",
-						"suffix": false,
-						"is_show": true
-					},
-
-					{
-						"title": "StockSnap",
-						"url": "https://stocksnap.io/",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a6c3c1cddc3.png",
-						"description": "号称第一的免费精美图片分享站，可商用，完全免费",
-						"suffix": false,
-						"is_show": false
-					},
-
 					{
 						"title": "GameWallpapers",
 						"url": "https://www.gamewallpapers.com/",
 						"icon": "https://img.fre123.com/i/2024/01/17/65a6bb871013f.ico",
 						"description": "Xbox One、PlayStation 4(PS4)和任天堂WiiU@1080p、1440p、4k的最新PC和视频游戏的桌面或移动背景独家游戏壁纸",
-						"suffix": false,
-						"is_show": true
-					},
-
-					{
-						"title": "极简壁纸",
-						"url": "https://bz.zzzmh.cn/",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a6ba9a0672f.png",
-						"description": "极简壁纸,4k高清电脑桌面壁纸图库,海量4k电脑壁纸,壁纸网站,美女,动漫,风景,4k高清,4k超清,电脑壁纸桌面",
 						"suffix": false,
 						"is_show": true
 					},
@@ -766,88 +562,10 @@
 						"is_show": true
 					},
 					{
-						"title": "anime",
-						"url": "https://anime-pictures.net/",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a6b5b26508a.ico",
-						"description": "免费搜索动漫图片和壁纸，包含超过700,000张图片",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "3G 壁纸",
-						"url": "https://www.3gbizhi.com/",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a6c8cf4acc4.png",
-						"description": "3G壁纸网免费提供各类高清好看的手机壁纸图片下载.同时增加了桌面壁纸图片,图片大全，明星图片大全,性感美女图片大全等好看的图片栏目分享与下载-三桌图片网，收录分享生活的美。",
-						"suffix": false,
-						"is_show": true
-					},
-					{
 						"title": "拾光壁纸",
 						"url": "https://snake.timeline.ink/home",
 						"icon": "https://img.fre123.com/i/2024/02/18/65d21ec12048f.png",
 						"description": "拾光壁纸：干净、舒适、流畅的桌面壁纸网站。可在微软商店下载其桌面版本，以获得完整体验，如自动更换壁纸。",
-						"suffix": false,
-						"is_show": true
-					}
-				]
-			},
-			{
-				"tab_name": "摄影美图",
-				"upper_right_corner": {},
-				"details": [
-					{
-						"title": "Tookapic",
-						"url": "https://tookapic.com/photos",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a6b9aeb547d.ico",
-						"description": "每天拍一张照片来发现和表达自己，改善你的日常生活。",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "35photo",
-						"url": "https://35photo.pro/new/actual/",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a6c0bc54cda.png",
-						"description": "一个高质量图片分享平台，张张精品",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "POCO",
-						"url": "https://www.poco.cn/",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a6c19acabd3.ico",
-						"description": "POCO图片分享社区是领先的时尚图片分享平台，最大的以原创图片为核心的分享社区，汇聚百万摄影与视觉爱好者，和你发现和分享最新最时尚的潮流",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "天空之城",
-						"url": "https://www.skypixel.com/explore",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a6c24a2c34b.png",
-						"description": "无人机拍摄的全球精彩的航拍图片、航拍攻略、航拍视频、全景图汇集在此，让你尽情领略全球航拍美景。",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "Barn Images",
-						"url": "https://barnimages.com/",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a6c433d8c69.png",
-						"description": "由专业摄影师拍摄，图片质量非常高，均可免费下载，可商用",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "Pexels",
-						"url": "https://www.pexels.com/zh-cn/",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a6c347a44c8.ico",
-						"description": "提供高清尺寸且品质优良的免费照片网站（无版权）",
-						"suffix": false,
-						"is_show": false
-					},
-					{
-						"title": "复网视觉",
-						"url": "https://photo.fuyeor.com/",
-						"icon": "https://img.fre123.com/i/2024/01/17/65a6c988b85c6.png",
-						"description": "在网站上分享上传你的优质图片！让世界各地的人发现并欣赏和使用你的摄影佳作。",
 						"suffix": false,
 						"is_show": true
 					}

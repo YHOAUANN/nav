@@ -50,7 +50,7 @@
 						"title": "博客园",
 						"ori_url": "https://www.cnblogs.com/",
 						"url": "https://www.cnblogs.com/",
-						"icon": "https://assets.cnblogs.com/favicon.svg",
+						"icon": "https://pic.imgdb.cn/item/666e2febd9c307b7e93913ff.png",
 						"description": "程序员社区，知识交流平台",
 						"suffix": false,
 						"is_show": true
@@ -752,8 +752,7 @@
 			{
 				"tab_name": "番剧资源",
 				"upper_right_corner": {
-					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
+					
 				},
 				"details": [
 					{
@@ -980,8 +979,7 @@
 			{
 				"tab_name": "番剧下载",
 				"upper_right_corner": {
-					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
+					
 				},
 				"details": [
 					{
@@ -1077,8 +1075,7 @@
 			{
 				"tab_name": "漫画阅读",
 				"upper_right_corner": {
-					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
+					
 				},
 				"details": [
 					{
@@ -1336,8 +1333,7 @@
 			{
 				"tab_name": "动漫资讯",
 				"upper_right_corner": {
-					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
+					
 				},
 				"details": [
 					{

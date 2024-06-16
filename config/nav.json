@@ -166,7 +166,7 @@
 		]
 	},
 	{
-		"group_name": "影视资源",
+		"group_name": "影音资源",
 		"style": 1,
 		"style_des": "标准风格",
 		"tab_list": [
@@ -338,6 +338,34 @@
 						"icon": "https://img.fre123.com/i/2023/12/13/6579a8317c4a1.jpg",
 						"description": "轻量的聚合番剧搜索工具",
 						"suffix": true,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "在线音乐",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "SPlayer",
+						"url": "https://music.yhoauann.cn/",
+						"icon": "https://pic.imgdb.cn/item/666e42f8d9c307b7e953288f.png",
+						"description": "一个简约的在线音乐播放器，具有音乐搜索、播放、每日推荐、私人FM、歌词显示、歌曲评论、网易云登录与云盘等功能",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "音乐下载",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "myfreemp3",
+						"url": "http://tools.liumingye.cn/music_old",
+						"icon": "http://tools.liumingye.cn/favicon.ico",
+						"description": "免费无损音乐下载",
+						"suffix": false,
 						"is_show": true
 					}
 				]
@@ -526,41 +554,6 @@
 						"url": "https://xpanpan.site",
 						"icon": "https://img.fre123.com/i/2024/01/30/65b7dbf7a97b8.png",
 						"description": "小盘盘网盘搜索<",
-						"suffix": false,
-						"is_show": true
-					}
-				]
-			}
-		]
-	},
-	{
-		"group_name": "优质音乐",
-		"style": 1,
-		"style_des": "在线音乐",
-		"tab_list": [
-			{
-				"tab_name": "在线音乐",
-				"upper_right_corner": {},
-				"details": [
-					{
-						"title": "SPlayer",
-						"url": "https://music.yhoauann.cn/",
-						"icon": "https://pic.imgdb.cn/item/666e42f8d9c307b7e953288f.png",
-						"description": "一个简约的在线音乐播放器，具有音乐搜索、播放、每日推荐、私人FM、歌词显示、歌曲评论、网易云登录与云盘等功能",
-						"suffix": false,
-						"is_show": true
-					}
-				]
-			},
-			{
-				"tab_name": "音乐下载",
-				"upper_right_corner": {},
-				"details": [
-					{
-						"title": "myfreemp3",
-						"url": "http://tools.liumingye.cn/music_old",
-						"icon": "http://tools.liumingye.cn/favicon.ico",
-						"description": "免费无损音乐下载",
 						"suffix": false,
 						"is_show": true
 					}

@@ -308,14 +308,6 @@
 						"is_show": true
 					},
 					{
-						"title": "末日动漫资源库",
-						"url": "https://share.acgnx.se/",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579d4b28abac.ico",
-						"description": "ACG资源检索下载",
-						"suffix": true,
-						"is_show": true
-					},
-					{
 						"title": "漫猫动漫BT下载",
 						"url": "https://comicat.org/",
 						"icon": "https://img.fre123.com/i/2024/01/17/65a7b8e692125.ico",
@@ -328,46 +320,6 @@
 						"url": "https://air.tls.moe/#/home",
 						"icon": "https://img.fre123.com/i/2023/12/13/6579a8317c4a1.jpg",
 						"description": "轻量的聚合番剧搜索工具",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "菲特动漫",
-						"url": "https://fitacg.com/",
-						"icon": "https://img.fre123.com/i/2024/02/21/65d60e8d532aa.png",
-						"description": "支持动画,新番,动画,音乐,日剧等各类动漫资源下载",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "幻樱字幕组",
-						"url": "http://www.hysub.net/",
-						"icon": "https://img.fre123.com/i/2024/02/21/65d60f500066a.ico",
-						"description": "幻樱字幕组",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "Browse :: Nyaa",
-						"url": "https://nyaa.si/",
-						"icon": "https://img.fre123.com/i/2023/12/13/65799e1f1ad15.png",
-						"description": "一个番剧下载资源网站",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "动漫花园",
-						"url": "https://dmhy.org",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561b8ca8d9db.png",
-						"description": "动漫花园是一个动漫爱好者交流的平台，提供最及时全面的动漫资源",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "萌番组",
-						"url": "https://bangumi.moe/",
-						"icon": "https://img.fre123.com/i/2023/12/13/6579a462818f1.jpg",
-						"description": "番剧种子资源下载网站",
 						"suffix": true,
 						"is_show": true
 					}

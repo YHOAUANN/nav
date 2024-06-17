@@ -199,6 +199,14 @@
 						"is_show": true
 					},
 					{
+						"title": "两个BT",
+						"url": "https://www.bttwoo.com/",
+						"icon": "https://www.bttwoo.com/favicon.ico",
+						"description": "在线观看,电影弹幕网",
+						"suffix": true,
+						"is_show": true
+					},
+					{
 						"title": "LIBVIO",
 						"url": "https://www.libvio.me/",
 						"icon": "https://img.fre123.com/i/2024/01/06/659829e49995c.png",
